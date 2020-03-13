@@ -6,7 +6,7 @@ We used Trello and draw.io to make the plans and assign the work.
 ## Trello Board
 https://trello.com/b/pVSz6OX5/cn-game-board
 
-##Planning process
+## Planning process
 
 The story was written step by step in a flowchart to create the different levels and rooms of the game allowing us to plan for certain story elements and add in ways to end the game early or add additional elements in.
 This was amended as the project continued and we learned more so we could add complicated methods. For example we originally had a room that would have an attack sequence, you could choose to fight or run and the outcome was always the same. 
